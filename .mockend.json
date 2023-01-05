@@ -1,7 +1,7 @@
 [
   {
     "master": "58048133+1607598687848472576",
-    "info": [
+    "info": 
       {
         "iden": "58048133",
         "status": "1607598687848472576",
@@ -17,12 +17,11 @@
         "link": "https://www.24horas.cl/senal-24hplay",
         "urlImage": "https://pbs.twimg.com/media/Fk9W9d7WYAE_o4X.jpg",
         "urlText": "#MedianocheTVN | Fin a la rotonda de Plaza Baquedano  Sigue la señal en vivo"
-      }
-    ]
+      }    
   },
   {
     "master": "24952459+1607592260454989829",
-    "info": [
+    "info": 
       {
         "iden": "24952459",
         "status": "1607592260454989829",
@@ -43,7 +42,7 @@
   },
   {
     "master": "18248645+1607586792894595072",
-    "info": [
+    "info": 
       {
         "iden": "18248645",
         "status": "1607586792894595072",
@@ -59,7 +58,6 @@
         "link": "https://www.t13.cl/440820",
         "urlImage": "24952459+1607587073996820487-NO-IMAGE",
         "urlText": "CChC por emplazamientos tras incendio en Viña: \"No nos haremos cargo de acusaciones sin fundamento\""
-      }
-    ]
+      }    
   }
 ]
