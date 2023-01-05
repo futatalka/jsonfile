@@ -1,0 +1,65 @@
+[
+  {
+    "master": "58048133+1607598687848472576",
+    "info": [
+      {
+        "iden": "58048133",
+        "status": "1607598687848472576",
+        "date": "1672116369000",
+        "link": "https://www.meganoticias.cl/nacional/400536-transformacion-eje-alameda-providencia-rotonda-plaza-baquedano-italia-pdp-26-12-2022.html",
+        "urlImage": "58048133+1607598687848472576-NO-IMAGE",
+        "urlText": "Transformación del eje Alameda-Providencia: ¿Qué ocurrirá con la rotonda de Plaza Baquedano?"
+      },
+      {
+        "iden": "90227660",
+        "status": "1607599226170515457",
+        "date": "1672116497000",
+        "link": "https://www.24horas.cl/senal-24hplay",
+        "urlImage": "https://pbs.twimg.com/media/Fk9W9d7WYAE_o4X.jpg",
+        "urlText": "#MedianocheTVN | Fin a la rotonda de Plaza Baquedano  Sigue la señal en vivo"
+      }
+    ]
+  },
+  {
+    "master": "24952459+1607592260454989829",
+    "info": [
+      {
+        "iden": "24952459",
+        "status": "1607592260454989829",
+        "date": "1672114837000",
+        "link": "https://www.t13.cl/440853",
+        "urlImage": "24952459+1607592260454989829-NO-IMAGE",
+        "urlText": "Balacera en plena vía pública en Santiago Centro deja un muerto y un lesionado"
+      },
+      {
+        "iden": "58048133",
+        "status": "1607592758851559424",
+        "date": "1672114955000",
+        "link": "https://www.meganoticias.cl/nacional/400578-balacera-santiago-un-fallecido-un-lesionado-desconocidos-ataque-27-12-2022.html",
+        "urlImage": "https://pbs.twimg.com/media/Fk9RGDfWQAEAoRD.jpg",
+        "urlText": "Un fallecido y un lesionado tras balacera en Santiago: Desconocidos los habrían atacado"
+      }
+    ]
+  },
+  {
+    "master": "18248645+1607586792894595072",
+    "info": [
+      {
+        "iden": "18248645",
+        "status": "1607586792894595072",
+        "date": "1672113533000",
+        "link": "https://www.cnnchile.com/economia/incendio-vina-del-mar-gremios-inomibiliarios_20221227/",
+        "urlImage": "18248645+1607586792894595072-NO-IMAGE",
+        "urlText": "Inmobiliarias y cuestionamientos tras incendios en Viña del Mar: “Nosotros no estamos para amparar delitos”"
+      },
+      {
+        "iden": "24952459",
+        "status": "1607587073996820487",
+        "date": "1672113600000",
+        "link": "https://www.t13.cl/440820",
+        "urlImage": "24952459+1607587073996820487-NO-IMAGE",
+        "urlText": "CChC por emplazamientos tras incendio en Viña: \"No nos haremos cargo de acusaciones sin fundamento\""
+      }
+    ]
+  }
+]
